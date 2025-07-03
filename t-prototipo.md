@@ -13,12 +13,14 @@
 - getelement by id y console log confirmando la compra
 
 ### correciones necesarias: 
-- ver si puedo remplazar tanta cadena de if por otra forma
-- analizar usar de inmediato un swich para no hacer solo bitcoin
-- analizar donde se puede usar funciones
+- ver si puedo remplazar tanta cadena de if y switch por otra forma
+- analizar donde usar arrays (diferentes monedas)
 
 
 # Fase 2: 
 ## Escalando primera vez: 
-- agregar la opcion de comprar en dolar o clp
-- agregar la opcion de 
+- agregar la opcion de comprar diferentes monedas digitales (3)
+- agregar saltos de linea en el html para el mensaje
+
+# Fase 3:
+## Escalado segunda:
